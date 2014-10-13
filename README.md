@@ -15,3 +15,8 @@ Download and open openspace.html with Firefox or serve with a http static server
 * Edit cards with a lightbox
 * Add more time slots by dragging a card down
 * Add/remove room slots with the arrows 
+
+######Non-features
+* Borrowed from https://github.com/ManifestWebDesign/angular-gridster
+* Not cleaned yet
+* No saving and loading
