@@ -8,7 +8,7 @@ Simple tool to help planning large open spaces
 Download and open openspace.html with Firefox or serve with a http static server (https://gist.github.com/willurd/5720255) and open with any modern browser.
 (Uses cross origin requests to a view file) 
 
-###Features
+######Features
 * Fast adding of topic cards
 * Move cards around by dragging them from the presenter name, pushing down columns to make space
 * Make cards larger to take up more time slots/rooms
@@ -19,4 +19,4 @@ Download and open openspace.html with Firefox or serve with a http static server
 ######Non-features
 * Borrowed from https://github.com/ManifestWebDesign/angular-gridster
 * Not cleaned yet
-* No saving and loading
+* No saving and loading of cards
