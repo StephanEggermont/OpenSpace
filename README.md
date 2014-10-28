@@ -8,6 +8,8 @@ Simple tool to help planning large open spaces
 Download the zipfile, unzip it and open openspace.html with Firefox or serve with a http static server (https://gist.github.com/willurd/5720255) and open with any modern browser.
 (Uses cross origin requests to a view file) 
 
+There is also a version that is served from Pharo smalltalk. It is on Smalltalkhub.
+
 ######Features
 * Fast adding of topic cards
 * Move cards around by dragging them from the presenter name, pushing down columns to make space
